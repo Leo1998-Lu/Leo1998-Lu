@@ -11,8 +11,8 @@
 
 
 🔭 I’m currently working on and learning:
-  - Network Embedding
-  - Recommender System
+  - Data Mining
+  - Natural Language Processing
   
 :trophy: Competition
   - 科大讯飞温室温度算法挑战赛 —— Top 9 (SOLO)
