@@ -7,10 +7,6 @@
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=Leo1998-Lu&show_icons=truet&include_all_commits=True&hide=prs,issues"/>
 </a>
 
-<a href="https://github.com/Leo1998-Lu">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=Leo1998-Lu&layout=compact" />
-</a>
-
 
 🔭 I’m currently working on and learning:
   - Data Mining
