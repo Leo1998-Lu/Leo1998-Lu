@@ -1,8 +1,10 @@
 ### 陆智翔 Leo Lu
-[![Zhixiang Lu's github stats](https://github-readme-stats.vercel.app/api?username=Leo1998-Lu)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> 
+ <img src="https://profile-counter.glitch.me/Leo1998-Lu/count.svg"/>
+</p>
 
 <a href="https://github.com/Leo1998-Lu">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=Leo1998-Lu&show_icons=truet&include_all_commits=True&hide=contribs"/>
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=Leo1998-Lu&show_icons=truet&include_all_commits=True&hide=prs,issues"/>
 </a>
 
 <a href="https://github.com/Leo1998-Lu">
