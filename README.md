@@ -15,7 +15,7 @@
   - Natural Language Processing
   
 :trophy: Competition
-  - [2020 阿里天池 NLP中文预训练模型泛化能力挑战赛](https://tianchi.aliyun.com/competition/entrance/531841/introduction) —— **Rank 30** (*TOP 1.7%*)      
+  - [2020 阿里天池 NLP中文预训练模型泛化能力挑战赛](https://tianchi.aliyun.com/competition/entrance/531841/introduction) —— **Rank 60** (*TOP 3.5%*)      
   - [2020 CCF BDCI（中国计算机学会 & 贝壳找房）房产行业聊天问答匹配](https://www.datafountain.cn/competitions/474) —— **Rank 28** (*TOP 0.9%*)   
   - [2020 CCF BDCI（中国计算机学会 & 华为）大数据时代的Serverless工作负载预测](https://www.datafountain.cn/competitions/468) ——  **Rank 11** (***SOLO***  *TOP 0.4%*)   
   - [2020 科大讯飞温室温度算法挑战赛](http://challenge.xfyun.cn/topic/info?type=temperature) —— **Rank 9** (***SOLO***  *TOP 0.5%*)    
