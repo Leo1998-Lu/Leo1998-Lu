@@ -15,7 +15,7 @@
   - Natural Language Processing
   
 :trophy: Competition
-  - [2021“梧桐杯”中国移动大数据应用创新大赛 智慧金融赛道](https://js.dclab.run/v2/cmptDetail.html?id=463) —— **Rank 8** (***SOLO***  *Top 1%*) 
+  - [2021“梧桐杯”中国移动大数据应用创新大赛 智慧金融赛道](https://js.dclab.run/v2/cmptDetail.html?id=463) —— **Rank 5** (***SOLO***  *Top 1%*) 
   - [山东省第二届数据应用创新创业大赛 临沂分赛场 供水管网压力预测](http://data.sd.gov.cn/cmpt/cmptDetail.html?id=24) —— **Rank 4** (***SOLO***   *Top 0.7%*)
   - [2020 阿里天池 NLP中文预训练模型泛化能力挑战赛](https://tianchi.aliyun.com/competition/entrance/531841/introduction) —— **Rank 60** (*TOP 3.5%*)      
   - [2020 CCF BDCI（中国计算机学会 & 贝壳找房）房产行业聊天问答匹配](https://www.datafountain.cn/competitions/474) —— **Rank 28** (*TOP 0.9%*)   
