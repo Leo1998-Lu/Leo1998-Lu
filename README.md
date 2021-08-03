@@ -15,8 +15,8 @@
   - Natural Language Processing
   
 :trophy: Competition
-  - [2021 Kaggle CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize) —— **Silver Medal** (**Team Leader**  *Top 3%*)
-  - [2021 Kaggle Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) —— **Silver Medal** (**Team Leader**  *Top 5%*)
+  - [2021 Kaggle CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize) —— **Silver Medal** (***Team Leader***  *Top 3%*)
+  - [2021 Kaggle Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) —— **Silver Medal** (***Team Leader***  *Top 5%*)
   - [2021 SODIC 基于文本挖掘的企业隐患排查质量分析模型](https://www.sodic.com.cn/competitions/900010)—— **Rank 4** (***SOLO***   *Top 0.6%*)
   - [2021 全球人工智能技术创新大赛【赛道一】医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction) —— **Rank 16** (*Top 0.3%*) 
   - [2021“梧桐杯”中国移动大数据应用创新大赛 智慧金融赛道](https://js.dclab.run/v2/cmptDetail.html?id=463) —— **Rank 5** (***SOLO***  *Top 1%*) 
