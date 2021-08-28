@@ -9,15 +9,16 @@
 </a>
 </p>
 
+![image](https://user-images.githubusercontent.com/57436423/131211756-b2feecc8-84d8-4c8f-9eaf-4a66e5a7cc6f.png)
 
 🔭 I’m currently working on and learning:
   - Data Mining
   - Natural Language Processing
   
 :trophy: Competition
-  - [2021 Kaggle CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize) —— **Silver Medal** (***Team Leader***  *带队SOLO*)
-  - [2021 Kaggle Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) —— **Silver Medal** (***Team Leader***  *带队SOLO*)
-  - [2021 Kaggle Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) —— **Silver Medal** (***Team Leader***  *带队SOLO*)
+  - [2021 Kaggle CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize) —— **Silver Medal** (***Team Leader***  [*带队SOLO*](https://github.com/Leo1998-Lu/CommonLit-Readability-Prize-Silver-Medal-Solution))
+  - [2021 Kaggle Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) —— **Silver Medal** (***Team Leader***  [*带队SOLO*](https://github.com/Leo1998-Lu/Kaggle-Jane-Street-Market-Prediction-Silver-Medal-solution))
+  - [2021 Kaggle Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) —— **Silver Medal** (***Team Leader***  [*带队SOLO*](https://www.kaggle.com/leolu1998/nfnet-l0-efficientnet-b5-ensemble-inference))
   - [2021 SODIC 基于文本挖掘的企业隐患排查质量分析模型](https://www.sodic.com.cn/competitions/900010)—— **Rank 4** (***SOLO***   *Top 0.6%*)
   - [英特尔创新大师杯”深度学习挑战赛：CCKS2021中文NLP地址相关性任务](https://tianchi.aliyun.com/competition/entrance/531901/introduction?spm=5176.12281925.0.0.35f57137iJG8az)—— **Rank 31** (*TOP 1.1%*)
   - [2021 全球人工智能技术创新大赛【赛道一】医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction) —— **Rank 16** (*Top 0.3%*) 
