@@ -32,7 +32,7 @@
   - [2020 MCM美国大学生数学建模竞赛 C题](https://github.com/Leo1998-Lu/Machine-Learning-Model-for-Product-Sales-in-Online-Market-Based-on-Text-Sentiment-Analysis) —— **Meritorious Winner** (独立完成全部论文撰写、模型代码实现、文献参考及格式排版)
   - [2020 第八届"泰迪杯"数据挖掘挑战赛 C题](https://www.tipdm.org/tzbhjmd/1651.jhtml) —— **全国一等奖** (独立完成全部论文撰写、模型代码实现、文献参考并独自完成答辩)
   - [2020 第三届中青杯全国大学生数学建模竞赛 B题](https://github.com/Leo1998-Lu/Dynamic-investment-model-based-on-machine-learning) 本科组 —— **全国一等奖** (***SOLO***)
-  - 2020 MathorCup高校数学建模挑战赛——大数据竞赛 A题 本科组 —— **全国二等奖** (负责完成75%的论文撰写和模型代码实现)
+  - [2020 MathorCup高校数学建模挑战赛——大数据竞赛 A题](https://github.com/Leo1998-Lu/Mobile-communication-base-station-traffic-forecast) 本科组 —— **全国二等奖** (负责完成75%的论文撰写和模型代码实现)
   - [2020 第十届MathorCup高校数学建模挑战赛 D题](https://github.com/Leo1998-Lu/Precise-demand-prediction-model-for-new-retail-target-products) 本科组 —— **全国二等奖** (负责完成70%的论文撰写和模型代码实现)
 
 :loop:****其他竞赛****(:busts_in_silhouette:参赛队伍1000队以下 & :moneybag:奖金10000￥以下)
