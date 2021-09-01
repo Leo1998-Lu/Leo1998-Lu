@@ -11,15 +11,14 @@
 
 [![image](https://user-images.githubusercontent.com/57436423/131211756-b2feecc8-84d8-4c8f-9eaf-4a66e5a7cc6f.png)](https://www.kaggle.com/leolu1998)
 
-🔭 I’m currently working on and learning:
+#### 🔭 I’m currently working on and learning:
   - Data Mining
   - Natural Language Processing
   
-:trophy: Competition
-  - 【**NLP**】[2021 Kaggle CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize) —— **Silver Medal** (***Team Leader***  [*带队SOLO*](https://github.com/Leo1998-Lu/CommonLit-Readability-Prize-Silver-Medal-Solution))
-  - 【**ML+TSA**】[2021 Kaggle Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) —— **Silver Medal** (***Team Leader***  [*带队SOLO*](https://github.com/Leo1998-Lu/Kaggle-Jane-Street-Market-Prediction-Silver-Medal-solution))
-  - 【**MMML**】[2021 Kaggle Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) —— **Silver Medal** (***Team Leader***  [*带队SOLO*](https://www.kaggle.com/leolu1998/nfnet-l0-efficientnet-b5-ensemble-inference))
-  - 【**NLP**】[2021 人邮杯人工智能大赛](https://www.biendata.xyz/competition/ai_college/data/)—— **Rank 4** (***SOLO***   *Top 2%*)
+#### :trophy: Competition
+  - 【**NLP**】[2021 Kaggle CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://github.com/Leo1998-Lu/CommonLit-Readability-Prize-Silver-Medal-Solution))
+  - 【**ML+TSA**】[2021 Kaggle Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://github.com/Leo1998-Lu/Kaggle-Jane-Street-Market-Prediction-Silver-Medal-solution))
+  - 【**MMML**】[2021 Kaggle Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://www.kaggle.com/leolu1998/nfnet-l0-efficientnet-b5-ensemble-inference))
   - 【**NLP**】[2021 SODIC 基于文本挖掘的企业隐患排查质量分析模型](https://www.sodic.com.cn/competitions/900010)—— **Rank 4** (***SOLO***   *Top 0.6%*)
   - 【**NLP**】[英特尔创新大师杯”深度学习挑战赛：CCKS2021中文NLP地址相关性任务](https://tianchi.aliyun.com/competition/entrance/531901/introduction?spm=5176.12281925.0.0.35f57137iJG8az)—— **Rank 31** (*TOP 1.1%*)
   - 【**NLP**】[2021 全球人工智能技术创新大赛【赛道一】医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction) —— **Rank 16** (*Top 0.3%*) 
@@ -33,6 +32,15 @@
   - [2020 第八届"泰迪杯"数据挖掘挑战赛](http://www.tipdm.org/bdrace/tzbhjmd/20200619/1651.html) —— **全国一等奖** *（独立完成全部论文撰写、模型代码实现、文献参考并独自完成答辩）*
   - [2020 第三届中青杯全国大学生数学建模竞赛](http://zqb.52jingsai.com/price1.php) 本科组 —— **全国一等奖** (***SOLO***)
   - [2020 第十届MathorCup高校数学建模挑战赛](https://github.com/Leo1998-Lu/Precise-demand-prediction-model-for-new-retail-target-products) 本科组 —— **全国二等奖** *（负责完成70%的论文撰写和模型代码实现）*
+
+:loop:****其他竞赛****(:busts_in_silhouette:参赛队伍1000队以下且:moneybag:奖金10000￥以下)
+  - 【**ML**】[2021 科大讯飞xDatawhale 恶意软件分类挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=malware-classification)—— 🥈**SOLO Rank 2/207** 
+  - 【**ML**】[2021 科大讯飞xDatawhale 车辆贷款违约预测挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=car-loan)—— 🥉**SOLO Rank 3/801** 
+  - 【**NLP**】[2021 人邮杯人工智能大赛](https://www.biendata.xyz/competition/ai_college/data/)——  **SOLO Rank 4/123**  
+  - 【**NLP**】[2021 科大讯飞xDatawhale 学术论文分类挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=academic-paper-classification)—— **SOLO Rank 5/424** 
+  - 【**NLP**】[2020 AI研习社 评论情感词提取(奖金赛)](https://god.yanxishe.com/103)—— 🏅️**SOLO Rank 1/87**  
+  - 【**NLP**】[2020 AI研习社 酒店评分预测(奖金赛)](https://god.yanxishe.com/96)—— 🏅️**SOLO Rank 1/118**
+  - 【**ML+TSA**】[2020 AI研习社 高铁乘客数量检测(奖金赛)](https://god.yanxishe.com/94)—— 🥈**SOLO Rank 2/114**
 
 ******ML:****** Machine Learning  
 ******TSA:****** Time Series Analysis  
