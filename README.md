@@ -33,7 +33,7 @@
   - [2020 第三届中青杯全国大学生数学建模竞赛](http://zqb.52jingsai.com/price1.php) 本科组 —— **全国一等奖** (***SOLO***)
   - [2020 第十届MathorCup高校数学建模挑战赛](https://github.com/Leo1998-Lu/Precise-demand-prediction-model-for-new-retail-target-products) 本科组 —— **全国二等奖** *（负责完成70%的论文撰写和模型代码实现）*
 
-:loop:****其他竞赛****(:busts_in_silhouette:参赛队伍1000队以下且:moneybag:奖金10000￥以下)
+:loop:****其他竞赛****(:busts_in_silhouette:参赛队伍1000队以下 & :moneybag:奖金10000￥以下)
   - 【**ML**】[2021 科大讯飞xDatawhale 恶意软件分类挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=malware-classification)—— 🥈**SOLO Rank 2/207** 
   - 【**ML**】[2021 科大讯飞xDatawhale 车辆贷款违约预测挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=car-loan)—— 🥉**SOLO Rank 3/801** 
   - 【**NLP**】[2021 人邮杯人工智能大赛](https://www.biendata.xyz/competition/ai_college/data/)——  **SOLO Rank 4/123**  
