@@ -34,5 +34,9 @@
   - [2020 第三届中青杯全国大学生数学建模竞赛](http://zqb.52jingsai.com/price1.php) 本科组 —— **全国一等奖** (***SOLO***)
   - [2020 第十届MathorCup高校数学建模挑战赛](https://github.com/Leo1998-Lu/Precise-demand-prediction-model-for-new-retail-target-products) 本科组 —— **全国二等奖** *（负责完成70%的论文撰写和模型代码实现）*
 
+******ML:****** Machine Learning  
+******TSA:****** Time Series Analysis  
+******NLP:****** Natural Language Processing    
+******MMML:****** MultiModal Machine Learning  
 
 
