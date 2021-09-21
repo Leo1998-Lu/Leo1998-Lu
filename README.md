@@ -39,7 +39,9 @@
   - 【**ML**】[2021 科大讯飞xDatawhale 恶意软件分类挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=malware-classification)—— 🥈**SOLO Rank 2/207** 
   - 【**ML**】[2021 科大讯飞xDatawhale 车辆贷款违约预测挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=car-loan)—— 🥉**SOLO Rank 3/801** 
   - 【**NLP**】[2021 人邮杯人工智能大赛](https://www.biendata.xyz/competition/ai_college/data/)——  **SOLO Rank 4/123**  
+  - 【**ML**】[2021 科大讯飞xDatawhale 广告点击率预估挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=Ad-click-through)—— **SOLO Rank 4/334** 
   - 【**NLP**】[2021 科大讯飞xDatawhale 学术论文分类挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=academic-paper-classification)—— **SOLO Rank 5/424** 
+  - 【**NLP**】[2021 科大讯飞x好大夫 非标准化疾病诉求的简单分诊挑战赛](http://challenge.xfyun.cn/topic/info?type=disease-claims)—— **SOLO Rank 7/149** 
   - 【**NLP**】[2020 AI研习社 评论情感词提取(奖金赛)](https://god.yanxishe.com/103)—— 🏅️**SOLO Rank 1/87**  
   - 【**NLP**】[2020 AI研习社 酒店评分预测(奖金赛)](https://god.yanxishe.com/96)—— 🏅️**SOLO Rank 1/118**
   - 【**ML+TSA**】[2020 AI研习社 高铁乘客数量检测(奖金赛)](https://god.yanxishe.com/94)—— 🥈**SOLO Rank 2/114**
