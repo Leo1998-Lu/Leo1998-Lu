@@ -20,6 +20,8 @@
   - 【**ML+TSA**】[2021 Kaggle Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://github.com/Leo1998-Lu/Kaggle-Jane-Street-Market-Prediction-Silver-Medal-solution))
   - 【**MMML**】[2021 Kaggle Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://www.kaggle.com/leolu1998/nfnet-l0-efficientnet-b5-ensemble-inference))
   - 【**NLP**】[2021 SODIC 基于文本挖掘的企业隐患排查质量分析模型](https://www.sodic.com.cn/competitions/900010)—— **Rank 4** (***SOLO***   *Top 0.6%*)
+  - 【**ML**】[2021 科大讯飞x上海海事大学 蛋白质结构预测挑战赛](http://challenge.xfyun.cn/topic/info?type=protein)—— **Rank 4** (***SOLO***   *Top 0.3%*)
+  - 【**NLP**】[2021 科大讯飞x好大夫 非标准化疾病诉求的简单分诊挑战赛](http://challenge.xfyun.cn/topic/info?type=disease-claims)—— **Rank 7** (***SOLO***   *Top 4%*)
   - 【**NLP**】[英特尔创新大师杯”深度学习挑战赛：CCKS2021中文NLP地址相关性任务](https://tianchi.aliyun.com/competition/entrance/531901/introduction?spm=5176.12281925.0.0.35f57137iJG8az)—— **Rank 31** (*TOP 1.1%*)
   - 【**NLP**】[2021 全球人工智能技术创新大赛【赛道一】医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction) —— **Rank 16** (*Top 0.3%*) 
   - 【**ML**】[2021“梧桐杯”中国移动大数据应用创新大赛 智慧金融赛道](https://js.dclab.run/v2/cmptDetail.html?id=463) —— **Rank 5** (***SOLO***  *Top 1%*) 
@@ -41,7 +43,6 @@
   - 【**NLP**】[2021 人邮杯人工智能大赛](https://www.biendata.xyz/competition/ai_college/data/)——  **SOLO Rank 4/123**  
   - 【**ML**】[2021 科大讯飞xDatawhale 广告点击率预估挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=Ad-click-through)—— **SOLO Rank 4/334** 
   - 【**NLP**】[2021 科大讯飞xDatawhale 学术论文分类挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=academic-paper-classification)—— **SOLO Rank 5/424** 
-  - 【**NLP**】[2021 科大讯飞x好大夫 非标准化疾病诉求的简单分诊挑战赛](http://challenge.xfyun.cn/topic/info?type=disease-claims)—— **SOLO Rank 7/149** 
   - 【**NLP**】[2020 AI研习社 评论情感词提取(奖金赛)](https://god.yanxishe.com/103)—— 🏅️**SOLO Rank 1/87**  
   - 【**NLP**】[2020 AI研习社 酒店评分预测(奖金赛)](https://god.yanxishe.com/96)—— 🏅️**SOLO Rank 1/118**
   - 【**ML+TSA**】[2020 AI研习社 高铁乘客数量检测(奖金赛)](https://god.yanxishe.com/94)—— 🥈**SOLO Rank 2/114**
