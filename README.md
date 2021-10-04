@@ -22,7 +22,7 @@
   - 【**NLP**】[2021 SODIC 基于文本挖掘的企业隐患排查质量分析模型](https://www.sodic.com.cn/competitions/900010)—— **Rank 4** (***SOLO***   *Top 0.6%*)
   - 【**ML**】[2021 科大讯飞x上海海事大学 蛋白质结构预测挑战赛](http://challenge.xfyun.cn/topic/info?type=protein)—— **Rank 4** (***SOLO***   *Top 0.3%*)
   - 【**NLP**】[2021 科大讯飞x好大夫 非标准化疾病诉求的简单分诊挑战赛](http://challenge.xfyun.cn/topic/info?type=disease-claims)—— **Rank 7** (***SOLO***   *Top 4%*)
-  - 【**NLP**】[英特尔创新大师杯”深度学习挑战赛：CCKS2021中文NLP地址相关性任务](https://tianchi.aliyun.com/competition/entrance/531901/introduction?spm=5176.12281925.0.0.35f57137iJG8az)—— **Rank 31** (*TOP 1.1%*)
+  - 【**NLP**】[“英特尔创新大师杯”深度学习挑战赛：CCKS2021中文NLP地址相关性任务](https://tianchi.aliyun.com/competition/entrance/531901/introduction?spm=5176.12281925.0.0.35f57137iJG8az)—— **Rank 31** (*TOP 1.1%*)
   - 【**NLP**】[2021 全球人工智能技术创新大赛【赛道一】医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction) —— **Rank 16** (*Top 0.3%*) 
   - 【**ML**】[2021“梧桐杯”中国移动大数据应用创新大赛 智慧金融赛道](https://js.dclab.run/v2/cmptDetail.html?id=463) —— **Rank 5** (***SOLO***  *Top 1%*) 
   - 【**ML+TSA**】[山东省第二届数据应用创新创业大赛 临沂分赛场 供水管网压力预测](http://data.sd.gov.cn/cmpt/cmptDetail.html?id=24) —— **Rank 4** (***SOLO***   *Top 0.7%*)
