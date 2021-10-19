@@ -20,7 +20,7 @@
   - 【**ML+TSA**】[2021 Kaggle: Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://github.com/Leo1998-Lu/Kaggle-Jane-Street-Market-Prediction-Silver-Medal-solution))
   - 【**MMML**】[2021 Kaggle: Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://www.kaggle.com/leolu1998/nfnet-l0-efficientnet-b5-ensemble-inference))
   - 【**NLP**】[2021 SODIC: 基于文本挖掘的企业隐患排查质量分析模型](https://www.sodic.com.cn/competitions/900010)—— **Rank 4** (***SOLO***   *Top 0.6%*)
-  - 【**ML**】[2021 科大讯飞A.I开发者大赛: 蛋白质结构预测挑战赛](http://challenge.xfyun.cn/topic/info?type=protein)—— **Rank 4** (***SOLO***   *Top 0.3%*)
+  - 【**ML**】[2021 科大讯飞A.I开发者大赛: 蛋白质结构预测挑战赛](http://challenge.xfyun.cn/topic/info?type=protein)—— **Rank 2** (🥈***SOLO***   *Top 0.1%*)
   - 【**NLP**】[2021 科大讯飞A.I开发者大赛: 非标准化疾病诉求的简单分诊挑战赛](http://challenge.xfyun.cn/topic/info?type=disease-claims)—— **Rank 7** (***SOLO***   *Top 4%*)
   - 【**NLP**】[2021 科大讯飞A.I开发者大赛: 家庭行为识别挑战赛](http://challenge.xfyun.cn/topic/info?type=family-behavior-recognition)—— **Rank 10** (***SOLO***   *Top 1%*)
   - 【**NLP**】[2021 人邮杯人工智能大赛](https://www.biendata.xyz/competition/ai_college/data/)——  **Rank 4** (***SOLO***   *Top 3%*) 
@@ -40,7 +40,7 @@
   - [2020 第十届MathorCup高校数学建模挑战赛 D题](https://github.com/Leo1998-Lu/Precise-demand-prediction-model-for-new-retail-target-products) 本科组 —— **全国二等奖** (负责完成70%的论文撰写和模型代码实现)
 
 :loop:****其他竞赛****(:busts_in_silhouette:参赛队伍1000队以下 & :moneybag:奖金10000￥以下)
-  - 【**ML**】[2021 科大讯飞xDatawhale: 恶意软件分类挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=malware-classification)—— 🥈**SOLO Rank 2/207** 
+  - 【**ML**】[2021 科大讯飞xDatawhale: 恶意软件分类挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=malware-classification)—— 🏅️**SOLO Rank 1/207** 
   - 【**ML**】[2021 科大讯飞xDatawhale: 车辆贷款违约预测挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=car-loan)—— 🥉**SOLO Rank 3/801** 
   - 【**ML**】[2021 科大讯飞xDatawhale: 广告点击率预估挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=Ad-click-through)—— **SOLO Rank 4/334** 
   - 【**NLP**】[2021 科大讯飞xDatawhale: 学术论文分类挑战赛(正式赛)](http://challenge.xfyun.cn/topic/info?type=academic-paper-classification)—— **SOLO Rank 5/424** 
