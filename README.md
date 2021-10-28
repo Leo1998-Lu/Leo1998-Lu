@@ -33,7 +33,7 @@
   - 【**ML+TSA**】[山东省第二届数据应用创新创业大赛 临沂分赛场 供水管网压力预测](http://data.sd.gov.cn/cmpt/cmptDetail.html?id=24) —— **Rank 4** (***SOLO***   *Top 0.7%*)
   - 【**ML**】[2021“梧桐杯”中国移动大数据应用创新大赛 智慧金融赛道](https://js.dclab.run/v2/cmptDetail.html?id=463) —— **Rank 5** (***SOLO***  *Top 1%*) 
   - 2021 MCM美国大学生数学建模竞赛 D题   —— **Meritorious Winner** (***SOLO***)
-  - [2020 MCM美国大学生数学建模竞赛 C题](https://github.com/Leo1998-Lu/Machine-Learning-Model-for-Product-Sales-in-Online-Market-Based-on-Text-Sentiment-Analysis) —— **Meritorious Winner** (独立完成全部论文撰写、模型代码实现、文献参考及格式排版)
+  - [2020 MCM美国大学生数学建模竞赛 C题](https://github.com/Leo1998-Lu/Machine-Learning-Model-for-Product-Sales-in-Online-Market-Based-on-Text-Sentiment-Analysis) —— **Meritorious Winner** (独立完成全部论文撰写、模型代码实现、文献参考及排版)
   - [2020 第八届"泰迪杯"数据挖掘挑战赛 C题](https://www.tipdm.org/tzbhjmd/1651.jhtml) —— **全国一等奖** (独立完成全部论文撰写、模型代码实现、文献参考并独自完成答辩)
   - [2020 第三届中青杯全国大学生数学建模竞赛 B题](https://github.com/Leo1998-Lu/Dynamic-investment-model-based-on-machine-learning) 本科组 —— **全国一等奖** (***SOLO***)
   - [2020 MathorCup高校数学建模挑战赛——大数据竞赛 A题](https://github.com/Leo1998-Lu/Mobile-communication-base-station-traffic-forecast) 本科组 —— **全国二等奖** (负责完成75%的论文撰写和模型代码实现)
