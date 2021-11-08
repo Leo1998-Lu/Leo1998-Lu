@@ -19,6 +19,7 @@
   - 【**NLP**】[2021 Kaggle: CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://github.com/Leo1998-Lu/CommonLit-Readability-Prize-Silver-Medal-Solution))
   - 【**ML+TSA**】[2021 Kaggle: Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://github.com/Leo1998-Lu/Kaggle-Jane-Street-Market-Prediction-Silver-Medal-solution))
   - 【**MMML**】[2021 Kaggle: Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://www.kaggle.com/leolu1998/nfnet-l0-efficientnet-b5-ensemble-inference))
+  - 【**ML+TSA**】[2021 Kaggle: Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction) —— **Bronze Medal** (***Team Leader*** 🥉[*带队SOLO*](https://www.kaggle.com/leolu1998/dnn-lstm-kmeans-tpu/notebook))
   - 【**ML**】[2021 超级传播者识别挑战赛（西南财经大学、新网银行）](https://js.dclab.run/v2/cmptDetail.html?id=568)  —— **冠军** 🏅️ 
   - 【**ML+NLP**】[2021 ATEC科技精英赛 网络欺诈举报定性 科技新星赛道](https://www.atecup.cn/competitionRanklist)  —— **亚军** 🥈 
   - 【**NLP**】[2021 SODIC: 基于文本挖掘的企业隐患排查质量分析模型](https://www.sodic.com.cn/competitions/900010)—— **Rank 4** (***SOLO***   *Top 0.6%*)
