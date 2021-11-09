@@ -9,7 +9,8 @@
 </a>
 </p>
 
-[![image](https://user-images.githubusercontent.com/57436423/137585892-13784436-fe44-4bbe-869c-b77950024d40.png)](https://www.kaggle.com/leolu1998)
+[![image](![image](https://user-images.githubusercontent.com/57436423/140844756-3aa409bf-2dbd-404e-aa62-274006284c87.png)
+)](https://www.kaggle.com/leolu1998)
 
 ****🔭 I’m currently working on and learning:****
   - Data Mining
@@ -20,8 +21,8 @@
   - 【**ML+TSA**】[2021 Kaggle: Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://github.com/Leo1998-Lu/Kaggle-Jane-Street-Market-Prediction-Silver-Medal-solution))
   - 【**MMML**】[2021 Kaggle: Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://www.kaggle.com/leolu1998/nfnet-l0-efficientnet-b5-ensemble-inference))
   - 【**ML+TSA**】[2021 Kaggle: Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction) —— **Bronze Medal** (***Team Leader*** 🥉[*带队SOLO*](https://www.kaggle.com/leolu1998/dnn-lstm-kmeans-tpu/notebook))
-  - 【**ML**】[2021 超级传播者识别挑战赛（西南财经大学、新网银行）](https://js.dclab.run/v2/cmptDetail.html?id=568)  —— **冠军** 🏅️ 
-  - 【**ML+NLP**】[2021 ATEC科技精英赛 网络欺诈举报定性 科技新星赛道](https://www.atecup.cn/competitionRanklist)  —— **亚军** 🥈 
+  - 【**ML**】[2021 超级传播者识别挑战赛（西南财经大学、新网银行）](https://js.dclab.run/v2/cmptDetail.html?id=568)  —— **Rank 1** 🏅️ 
+  - 【**ML+NLP**】[2021 ATEC科技精英赛 网络欺诈举报定性 科技新星赛道](https://www.atecup.cn/competitionRanklist)  —— **Rank 2** 🥈 
   - 【**NLP**】[2021 SODIC: 基于文本挖掘的企业隐患排查质量分析模型](https://www.sodic.com.cn/competitions/900010)—— **Rank 4** (***SOLO***   *Top 0.6%*)
   - 【**ML**】[2021 科大讯飞A.I开发者大赛: 蛋白质结构预测挑战赛](http://challenge.xfyun.cn/topic/info?type=protein)—— **Rank 2** (🥈***SOLO***   *Top 0.1%*)
   - 【**NLP**】[2021 科大讯飞A.I开发者大赛: 非标准化疾病诉求的简单分诊挑战赛](http://challenge.xfyun.cn/topic/info?type=disease-claims)—— **Rank 5** (***SOLO***   *Top 3%*)
