@@ -22,7 +22,7 @@
   - 【**MMML**】[2021 Kaggle: Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://www.kaggle.com/leolu1998/nfnet-l0-efficientnet-b5-ensemble-inference))
   - 【**NLP**】[2021 Kaggle: chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering) —— **Bronze Medal** (🥉[*SOLO*](https://www.kaggle.com/leolu1998/5fold-xlmroberta-weighted-layer-pooling-training))
   - 【**ML+TSA**】[2021 Kaggle: Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction) —— **Bronze Medal** (***Team Leader*** 🥉[*带队SOLO*](https://www.kaggle.com/leolu1998/dnn-lstm-kmeans-tpu/notebook))
-  - 【**ML**】[2021 超级传播者识别挑战赛（西南财经大学、新网银行）](https://js.dclab.run/v2/cmptDetail.html?id=568)  —— **冠军** 🏅️ 
+  - 【**ML**】[2021 超级传播者识别挑战赛（西南财经大学 & 新网银行）](https://js.dclab.run/v2/cmptDetail.html?id=568)  —— **冠军** 🏅️ 
   - 【**ML+NLP**】[2021 ATEC科技精英赛 网络欺诈举报定性 科技新星赛道](https://www.atecup.cn/competitionRanklist)  —— **亚军** 🥈 
   - 【**ML**】[2021 科大讯飞A.I开发者大赛: 蛋白质结构预测挑战赛](http://challenge.xfyun.cn/topic/info?type=protein)—— **亚军** (🥈***SOLO***   *Top 0.1%*)
   - 【**NLP**】[2021 SODIC: 基于文本挖掘的企业隐患排查质量分析模型](https://www.sodic.com.cn/competitions/900010)—— **Rank 4** (***SOLO***   *Top 0.6%*)
