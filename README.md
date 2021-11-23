@@ -9,8 +9,7 @@
 </a>
 </p>
 
-[![image](![image](https://user-images.githubusercontent.com/57436423/140844756-3aa409bf-2dbd-404e-aa62-274006284c87.png)
-)](https://www.kaggle.com/leolu1998)
+[![image](https://user-images.githubusercontent.com/57436423/142958475-979a2a34-f5f3-485e-b3a7-2943b0ad3d0b.png)](https://www.kaggle.com/leolu1998)
 
 ****🔭 I’m currently working on and learning:****
   - Data Mining
