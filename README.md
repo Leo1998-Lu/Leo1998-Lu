@@ -17,8 +17,10 @@
   - Natural Language Processing
   
 #### :trophy: Competition
-  - 【**NLP**】[2021 Kaggle: CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://github.com/Leo1998-Lu/CommonLit-Readability-Prize-Silver-Medal-Solution))
+
+  - 【**ML+TSA**】[2021 Kaggle: Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://www.kaggle.com/leolu1998/lgbm-tabnet-nn-no-leaks-stratifiedgroupkfold))
   - 【**ML+TSA**】[2021 Kaggle: Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://github.com/Leo1998-Lu/Kaggle-Jane-Street-Market-Prediction-Silver-Medal-solution))
+  - 【**NLP**】[2021 Kaggle: CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://github.com/Leo1998-Lu/CommonLit-Readability-Prize-Silver-Medal-Solution))
   - 【**MMML**】[2021 Kaggle: Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://www.kaggle.com/leolu1998/nfnet-l0-efficientnet-b5-ensemble-inference))
   - 【**NLP**】[2021 Kaggle: chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering) —— **Bronze Medal** (🥉[*SOLO*](https://www.kaggle.com/leolu1998/5fold-xlmroberta-weighted-layer-pooling-training))
   - 【**ML+TSA**】[2021 Kaggle: Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction) —— **Bronze Medal** (***Team Leader*** 🥉[*带队SOLO*](https://www.kaggle.com/leolu1998/dnn-lstm-kmeans-tpu/notebook))
