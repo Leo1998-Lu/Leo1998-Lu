@@ -9,7 +9,7 @@
 </a>
 </p>
 
-[![image](![image](https://user-images.githubusercontent.com/57436423/155249145-4549d977-5eaf-4455-8731-db9a3ff6b5a0.png))
+[![image](https://user-images.githubusercontent.com/57436423/155249254-05d514da-4fd7-4e38-8d06-ebc9fde0c8e1.png)
 ](https://www.kaggle.com/leolu1998)
 
 
