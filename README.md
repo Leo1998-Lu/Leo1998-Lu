@@ -9,7 +9,7 @@
 </a>
 </p>
 
-[![image](https://user-images.githubusercontent.com/57436423/155249254-05d514da-4fd7-4e38-8d06-ebc9fde0c8e1.png)
+[![image](https://user-images.githubusercontent.com/57436423/160233066-cbea848a-6e49-4758-8d32-9f69812b14eb.png)
 ](https://www.kaggle.com/leolu1998)
 
 
@@ -19,7 +19,7 @@
   
 #### :trophy: Competition
 
-  - 【**NLP**】[2022 Kaggle: Feedback Prize - Evaluating Student Writing](https://www.kaggle.com/competitions/feedback-prize-2021) —— **Silver Medal** (***Team Leader***  🥈
+  - 【**NLP**】[2022 Kaggle: Feedback Prize - Evaluating Student Writing](https://www.kaggle.com/competitions/feedback-prize-2021) —— **Silver Medal** (***Team Leader***  🥈)
   - 【**ML+TSA**】[2021 Kaggle: Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://www.kaggle.com/leolu1998/lgbm-tabnet-nn-no-leaks-stratifiedgroupkfold))
   - 【**ML+TSA**】[2021 Kaggle: Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://github.com/Leo1998-Lu/Kaggle-Jane-Street-Market-Prediction-Silver-Medal-solution))
   - 【**NLP**】[2021 Kaggle: CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://github.com/Leo1998-Lu/CommonLit-Readability-Prize-Silver-Medal-Solution))
