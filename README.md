@@ -8,9 +8,13 @@
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=Leo1998-Lu&show_icons=truet&include_all_commits=True&hide=prs,issues"/>
 </a>
 </p>
+<p align="center"> 
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/leolu1998/competition"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/leolu1998/notebook">
+</p>
 
 [![image](https://user-images.githubusercontent.com/57436423/160233066-cbea848a-6e49-4758-8d32-9f69812b14eb.png)
 ](https://www.kaggle.com/leolu1998)
+
 
 
 ****🔭 I’m currently working on and learning:****
