@@ -12,8 +12,7 @@
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/leolu1998/competition"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/leolu1998/notebook">
 </p>
 
-[![image](https://user-images.githubusercontent.com/57436423/160233066-cbea848a-6e49-4758-8d32-9f69812b14eb.png)
-](https://www.kaggle.com/leolu1998)
+[![image](https://user-images.githubusercontent.com/57436423/165464759-59bb9494-84a2-4c4f-9f36-e4bf588b5f35.png)](https://www.kaggle.com/leolu1998)
 
 
 
@@ -23,13 +22,15 @@
   
 #### :trophy: Competition
 
-  - 【**NLP**】[2022 Kaggle: Feedback Prize - Evaluating Student Writing](https://www.kaggle.com/competitions/feedback-prize-2021) —— **Silver Medal** (***Team Leader***  🥈)
-  - 【**ML+TSA**】[2021 Kaggle: Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://www.kaggle.com/leolu1998/lgbm-tabnet-nn-no-leaks-stratifiedgroupkfold))
-  - 【**ML+TSA**】[2021 Kaggle: Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://github.com/Leo1998-Lu/Kaggle-Jane-Street-Market-Prediction-Silver-Medal-solution))
-  - 【**NLP**】[2021 Kaggle: CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://github.com/Leo1998-Lu/CommonLit-Readability-Prize-Silver-Medal-Solution))
-  - 【**MMML**】[2021 Kaggle: Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) —— **Silver Medal** (***Team Leader***  🥈[*带队SOLO*](https://www.kaggle.com/leolu1998/nfnet-l0-efficientnet-b5-ensemble-inference))
-  - 【**NLP**】[2021 Kaggle: chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering) —— **Bronze Medal** (🥉[*SOLO*](https://www.kaggle.com/leolu1998/5fold-xlmroberta-weighted-layer-pooling-training))
-  - 【**ML+TSA**】[2021 Kaggle: Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction) —— **Bronze Medal** (***Team Leader*** 🥉[*带队SOLO*](https://www.kaggle.com/leolu1998/dnn-lstm-kmeans-tpu/notebook))
+  - 【**NLP**】[2022 Kaggle: Feedback Prize - Evaluating Student Writing](https://www.kaggle.com/competitions/feedback-prize-2021) —— **Silver Medal** ( ***Team Leader***  🥈)
+  - 【**ML+TSA**】[2021 Kaggle: Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction) —— **Silver Medal** ( ***Team Leader***  🥈[*带队SOLO* ](https://www.kaggle.com/leolu1998/lgbm-tabnet-nn-no-leaks-stratifiedgroupkfold))
+  - 【**ML+TSA**】[2021 Kaggle: Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) —— **Silver Medal** ( ***Team Leader***  🥈[*带队SOLO* ](https://github.com/Leo1998-Lu/Kaggle-Jane-Street-Market-Prediction-Silver-Medal-solution))
+  - 【**NLP**】[2021 Kaggle: CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize) —— **Silver Medal** ( ***Team Leader***  🥈[*带队SOLO* ](https://github.com/Leo1998-Lu/CommonLit-Readability-Prize-Silver-Medal-Solution))
+  - 【**MMML**】[2021 Kaggle: Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) —— **Silver Medal** ( ***Team Leader***  🥈[*带队SOLO* ](https://www.kaggle.com/leolu1998/nfnet-l0-efficientnet-b5-ensemble-inference))
+  - 【**CV**】[2021 Kaggle: G2Net Gravitational Wave Detection](https://www.kaggle.com/competitions/g2net-gravitational-wave-detection) —— **Silver Medal** 🥈
+  - 【**CV**】[2022 Kaggle: Happywhale - Whale and Dolphin Identification](https://www.kaggle.com/competitions/happy-whale-and-dolphin) —— **Bronze Medal** (🥉*SOLO* )
+  - 【**NLP**】[2021 Kaggle: chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering) —— **Bronze Medal** (🥉[*SOLO* ](https://www.kaggle.com/leolu1998/5fold-xlmroberta-weighted-layer-pooling-training))
+  - 【**ML+TSA**】[2021 Kaggle: Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction) —— **Bronze Medal** (***Team Leader*** 🥉[*带队SOLO* ](https://www.kaggle.com/leolu1998/dnn-lstm-kmeans-tpu/notebook))
   - 【**ML**】[2021 超级传播者识别挑战赛（西南财经大学 & 新网银行）](https://challenge.datacastle.cn/v3/cmptDetail.html?id=568)  —— **冠军** 🏅️ 
   - 【**ML+NLP**】[2021 ATEC科技精英赛 网络欺诈举报定性 科技新星赛道](https://www.atecup.cn/competitionRanklist)  —— **亚军** 🥈 
   - 【**ML**】[2021 科大讯飞A.I开发者大赛: 蛋白质结构预测挑战赛](http://challenge.xfyun.cn/topic/info?type=protein)—— **亚军** (🥈***SOLO***   *Top 0.1%*)
@@ -66,6 +67,7 @@
 ******ML:****** Machine Learning  
 ******TSA:****** Time Series Analysis  
 ******NLP:****** Natural Language Processing    
+******CV:****** Computer Vision
 ******MMML:****** MultiModal Machine Learning  
 
 
