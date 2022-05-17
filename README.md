@@ -12,7 +12,8 @@
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/leolu1998/competition"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/leolu1998/notebook">
 </p>
 
-[![image](https://user-images.githubusercontent.com/57436423/165464759-59bb9494-84a2-4c4f-9f36-e4bf588b5f35.png)](https://www.kaggle.com/leolu1998)
+[![image](https://user-images.githubusercontent.com/57436423/168714004-ccb2dbc5-5e6c-4c83-a79f-f33134f710f5.png)
+](https://www.kaggle.com/leolu1998)
 
 
 
@@ -21,7 +22,7 @@
   - Natural Language Processing
   
 #### :trophy: Competition
-
+  - 【**NLP**】[2022 Kaggle: NBME - Score Clinical Patient Notes](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes) —— **[Gold Medal](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/discussion/322962)** 🏅️
   - 【**NLP**】[2022 Kaggle: Feedback Prize - Evaluating Student Writing](https://www.kaggle.com/competitions/feedback-prize-2021) —— **Silver Medal** ( ***Team Leader***  🥈)
   - 【**ML+TSA**】[2021 Kaggle: Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction) —— **Silver Medal** ( ***Team Leader***  🥈[*带队SOLO* ](https://www.kaggle.com/leolu1998/lgbm-tabnet-nn-no-leaks-stratifiedgroupkfold))
   - 【**ML+TSA**】[2021 Kaggle: Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) —— **Silver Medal** ( ***Team Leader***  🥈[*带队SOLO* ](https://github.com/Leo1998-Lu/Kaggle-Jane-Street-Market-Prediction-Silver-Medal-solution))
