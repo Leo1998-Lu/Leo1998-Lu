@@ -22,6 +22,8 @@
   - Natural Language Processing
   
 #### :trophy: Competition
+
+  - 【**NLP**】[2022 Kaggle: U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) —— **[Gold Medal](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332567)** 🏅️
   - 【**NLP**】[2022 Kaggle: NBME - Score Clinical Patient Notes](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes) —— **[Gold Medal](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/discussion/322962)** 🏅️
   - 【**NLP**】[2022 Kaggle: Feedback Prize - Evaluating Student Writing](https://www.kaggle.com/competitions/feedback-prize-2021) —— **Silver Medal** ( ***Team Leader***  🥈)
   - 【**ML+TSA**】[2021 Kaggle: Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction) —— **Silver Medal** ( ***Team Leader***  🥈[*带队SOLO* ](https://www.kaggle.com/leolu1998/lgbm-tabnet-nn-no-leaks-stratifiedgroupkfold))
