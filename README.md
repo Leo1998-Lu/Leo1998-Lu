@@ -38,6 +38,7 @@
   - 【**ML+TSA**】[2021 Kaggle: Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction) —— **Bronze Medal** (***Team Leader*** 🥉[*带队SOLO* ](https://www.kaggle.com/leolu1998/dnn-lstm-kmeans-tpu/notebook))
   - 【**ML**】[2021 超级传播者识别挑战赛（西南财经大学 & 新网银行）](https://challenge.datacastle.cn/v3/cmptDetail.html?id=568)  —— **冠军** 🏅️ 
   - 【**ML+NLP**】[2021 ATEC科技精英赛 网络欺诈举报定性 科技新星赛道](https://www.atecup.cn/competitionRanklist)  —— **亚军** 🥈 
+  - 【**ML**】[2022 科大讯飞A.I开发者大赛: 非标准化疾病诉求的简单分诊挑战赛2.0](http://challenge.xfyun.cn/topic/info?type=disease-claims-2022) —— **亚军** (🥈***SOLO***   *Top 0.4%*)
   - 【**ML**】[2021 科大讯飞A.I开发者大赛: 蛋白质结构预测挑战赛](http://challenge.xfyun.cn/topic/info?type=protein)—— **亚军** (🥈***SOLO***   *Top 0.1%*)
   - 【**NLP**】[2021 CCF BDCI（中国计算机学会 & 爱奇艺）剧本角色情感识别](https://www.datafountain.cn/competitions/518/ranking)—— **季军** 🥉
   - 【**NLP**】[2022 WAIC 黑客松蚂蚁财富赛道：行情波动下的金融问答挑战](https://tianchi.aliyun.com/competition/entrance/532010/introduction?spm=5176.12281957.0.0.362f24482TRDeV)—— **Rank 4** (***SOLO***   *Top 0.1%*)
