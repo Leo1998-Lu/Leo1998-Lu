@@ -12,7 +12,7 @@
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/leolu1998/competition"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/leolu1998/notebook">
 </p>
 
-[![image](https://user-images.githubusercontent.com/57436423/168714004-ccb2dbc5-5e6c-4c83-a79f-f33134f710f5.png)
+[![image](![image](https://user-images.githubusercontent.com/57436423/199437822-bce383a4-eeee-4524-8eff-b33f6fd1be3f.png))
 ](https://www.kaggle.com/leolu1998)
 
 
@@ -26,6 +26,7 @@
   - 【**NLP**】[2022 Kaggle: U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) —— **[Gold Medal](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332567)** 🏅️
   - 【**NLP**】[2022 Kaggle: NBME - Score Clinical Patient Notes](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes) —— **[Gold Medal](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/discussion/322962)** 🏅️
   - 【**NLP**】[2022 Kaggle: Feedback Prize - Evaluating Student Writing](https://www.kaggle.com/competitions/feedback-prize-2021) —— **Silver Medal** ( ***Team Leader***  🥈)
+  - 【**ML**】[2022 Kaggle: American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction) —— **Silver Medal** (🥈*SOLO* )
   - 【**ML+TSA**】[2021 Kaggle: Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction) —— **Silver Medal** ( ***Team Leader***  🥈[*带队SOLO* ](https://www.kaggle.com/leolu1998/lgbm-tabnet-nn-no-leaks-stratifiedgroupkfold))
   - 【**ML+TSA**】[2021 Kaggle: Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) —— **Silver Medal** ( ***Team Leader***  🥈[*带队SOLO* ](https://github.com/Leo1998-Lu/Kaggle-Jane-Street-Market-Prediction-Silver-Medal-solution))
   - 【**NLP**】[2021 Kaggle: CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize) —— **Silver Medal** ( ***Team Leader***  🥈[*带队SOLO* ](https://github.com/Leo1998-Lu/CommonLit-Readability-Prize-Silver-Medal-Solution))
@@ -39,6 +40,7 @@
   - 【**ML+NLP**】[2021 ATEC科技精英赛 网络欺诈举报定性 科技新星赛道](https://www.atecup.cn/competitionRanklist)  —— **亚军** 🥈 
   - 【**ML**】[2021 科大讯飞A.I开发者大赛: 蛋白质结构预测挑战赛](http://challenge.xfyun.cn/topic/info?type=protein)—— **亚军** (🥈***SOLO***   *Top 0.1%*)
   - 【**NLP**】[2021 CCF BDCI（中国计算机学会 & 爱奇艺）剧本角色情感识别](https://www.datafountain.cn/competitions/518/ranking)—— **季军** 🥉
+  - 【**NLP**】[2022 WAIC 黑客松蚂蚁财富赛道：行情波动下的金融问答挑战](https://tianchi.aliyun.com/competition/entrance/532010/introduction?spm=5176.12281957.0.0.362f24482TRDeV)—— **Rank 4** (***SOLO***   *Top 0.1%*)
   - 【**NLP**】[2021 SODIC: 基于文本挖掘的企业隐患排查质量分析模型](https://www.sodic.com.cn/competitions/900010)—— **Rank 4** (***SOLO***   *Top 0.6%*)
   - 【**NLP**】[2021 科大讯飞A.I开发者大赛: 非标准化疾病诉求的简单分诊挑战赛](http://challenge.xfyun.cn/topic/info?type=disease-claims)—— **Rank 5** (***SOLO***   *Top 3%*)
   - 【**ML+TSA**】[2021 科大讯飞A.I开发者大赛: 家庭行为识别挑战赛](http://challenge.xfyun.cn/topic/info?type=family-behavior-recognition)—— **Rank 10** (***SOLO***   *Top 1%*)
