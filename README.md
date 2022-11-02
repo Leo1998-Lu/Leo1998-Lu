@@ -12,7 +12,7 @@
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/leolu1998/competition"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/leolu1998/notebook">
 </p>
 
-[![image](![image](https://user-images.githubusercontent.com/57436423/199437822-bce383a4-eeee-4524-8eff-b33f6fd1be3f.png))
+[![image](https://user-images.githubusercontent.com/57436423/199437822-bce383a4-eeee-4524-8eff-b33f6fd1be3f.png)
 ](https://www.kaggle.com/leolu1998)
 
 
