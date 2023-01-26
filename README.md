@@ -3,14 +3,6 @@
  <img src="https://profile-counter.glitch.me/Leo1998-Lu/count.svg"/>
 </p>
 
-<p align="center"> 
-<a href="https://github.com/Leo1998-Lu">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=Leo1998-Lu&show_icons=truet&include_all_commits=True&hide=prs,issues"/>
-</a>
-</p>
-<p align="center"> 
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/leolu1998/competition"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/leolu1998/notebook">
-</p>
 
 [![image](https://user-images.githubusercontent.com/57436423/199437822-bce383a4-eeee-4524-8eff-b33f6fd1be3f.png)
 ](https://www.kaggle.com/leolu1998)
@@ -22,7 +14,7 @@
   - Natural Language Processing
   
 #### :trophy: Competition
-
+  - 【**MMML**】[AI FOR GOOD,CODE ON!2022技术公益创新杯（字节跳动）](https://codeon.bytedance.com/v3/news-detail.html?id=22) —— **[一等奖]**
   - 【**NLP**】[2022 Kaggle: U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) —— **[Gold Medal](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332567)** 🏅️
   - 【**NLP**】[2022 Kaggle: NBME - Score Clinical Patient Notes](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes) —— **[Gold Medal](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/discussion/322962)** 🏅️
   - 【**NLP**】[2022 Kaggle: Feedback Prize - Evaluating Student Writing](https://www.kaggle.com/competitions/feedback-prize-2021) —— **Silver Medal** ( ***Team Leader***  🥈)
