@@ -4,8 +4,7 @@
 </p>
 
 
-[![image](https://user-images.githubusercontent.com/57436423/199437822-bce383a4-eeee-4524-8eff-b33f6fd1be3f.png)
-](https://www.kaggle.com/leolu1998)
+[![image](https://user-images.githubusercontent.com/57436423/218886950-cc8f95cc-4e9d-4b0a-ba35-f6855e328bab.png)](https://www.kaggle.com/leolu1998)
 
 
 
