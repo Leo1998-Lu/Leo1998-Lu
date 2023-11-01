@@ -14,8 +14,8 @@
   - Natural Language Processing
   
 #### :trophy: Competition
-  - 【**NLP**】[2023 科大讯飞A.I开发者大赛: 低资源文本翻译挑战赛2023](https://challenge.xfyun.cn/topic/info?type=multi-language-2023)—— **冠军** (🏅️***SOLO***)
-  - 【**NLP**】[2023 科大讯飞A.I开发者大赛: 机器翻译质量评估挑战赛2023](https://challenge.xfyun.cn/topic/info?type=translation-quality-2023)—— **冠军** (🏅️***SOLO***)
+  - 【**NLP**】[2023 科大讯飞A.I开发者大赛: 低资源文本翻译挑战赛2023](https://challenge.xfyun.cn/topic/info?type=multi-language-2023)—— **冠军** (🏅️*SOLO*)
+  - 【**NLP**】[2023 科大讯飞A.I开发者大赛: 机器翻译质量评估挑战赛2023](https://challenge.xfyun.cn/topic/info?type=translation-quality-2023)—— **冠军** (🏅️*SOLO*)
   - 【**NLP**】[2023 科大讯飞A.I开发者大赛: 基于自然语言的软件任务执行挑战赛](https://challenge.xfyun.cn/topic/info?type=software-task)—— **冠军** (🏅️***SOLO***)
   - 【**NLP**】[2023 Kaggle: LLM Science Exam](https://www.kaggle.com/competitions/kaggle-llm-science-exam) —— **Silver Medal** (🥈*SOLO* )
   - 【**NLP**】[2022 Kaggle: NBME - Score Clinical Patient Notes](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes) —— **[Gold Medal]
