@@ -18,7 +18,7 @@
   - 【**NLP**】[2023 科大讯飞A.I开发者大赛: 机器翻译质量评估挑战赛2023](https://challenge.xfyun.cn/topic/info?type=translation-quality-2023)—— **冠军** (🏅️*SOLO*)
   - 【**NLP**】[2023 科大讯飞A.I开发者大赛: 基于自然语言的软件任务执行挑战赛](https://challenge.xfyun.cn/topic/info?type=software-task)—— **冠军** (🏅️*SOLO*)
   - 【**NLP**】[2023 Kaggle: LLM Science Exam](https://www.kaggle.com/competitions/kaggle-llm-science-exam) —— **Silver Medal** (🥈*SOLO* )
-  - 【**NLP**】[2022 Kaggle: NBME - Score Clinical Patient Notes](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes) —— **[Gold Medal]
+  - 【**NLP**】[2022 Kaggle: NBME - Score Clinical Patient Notes](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes) —— **[Gold Medal]**
   - 【**MMML**】[AI FOR GOOD,CODE ON!2022技术公益创新杯（字节跳动）](https://codeon.bytedance.com/v3/news-detail.html?id=22) —— **一等奖** 🏅️ 
   - 【**NLP**】[2022 Kaggle: U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) —— **[Gold Medal](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332567)** 🏅️
   - 【**NLP**】[2022 Kaggle: NBME - Score Clinical Patient Notes](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes) —— **[Gold Medal](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/discussion/322962)** 🏅️
