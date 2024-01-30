@@ -4,8 +4,7 @@
 </p>
 
 
-![image](https://github.com/Leo1998-Lu/Leo1998-Lu/assets/57436423/79bb93e7-cf8e-4285-86a7-21738bdb6010)
-
+![image](https://github.com/Leo1998-Lu/Leo1998-Lu/assets/57436423/1234be37-0e2f-41c2-a941-a93b41d6af3e)
 
 
 
