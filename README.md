@@ -4,7 +4,7 @@
 </p>
 
 
-![image](https://github.com/Leo1998-Lu/Leo1998-Lu/assets/57436423/1234be37-0e2f-41c2-a941-a93b41d6af3e)
+![image](https://github.com/user-attachments/assets/0fd1acc2-ca28-47e4-ba10-2e5a5316f5ad)
 
 
 
@@ -13,10 +13,14 @@
   - Natural Language Processing
   
 #### :trophy: Competition
+  - 【**NLP**】[2024 科大讯飞A.I开发者大赛: 低资源文本翻译挑战赛2024](https://challenge.xfyun.cn/topic/info?type=multi-language-2023)—— **冠军** (🏅️*SOLO*)
+  - 【**LLM**】[2024 Kaggle: LMSYS - Chatbot Arena Human Preference Predictions](https://www.kaggle.com/competitions/lmsys-chatbot-arena) —— **Silver Medal** (🥈*SOLO* )
+  - 【**LLM**】[2024 Kaggle: NeurIPS 2024 - Predict New Medicines with BELKA](https://www.kaggle.com/competitions/leash-BELKA) —— **Silver Medal** ( ***Team Leader***  🥈)
+  - 【**LLM**】[2024 Kaggle: LEAP - Atmospheric Physics using AI (ClimSim)](https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim) —— **Silver Medal**
   - 【**NLP**】[2023 科大讯飞A.I开发者大赛: 低资源文本翻译挑战赛2023](https://challenge.xfyun.cn/topic/info?type=multi-language-2023)—— **冠军** (🏅️*SOLO*)
   - 【**NLP**】[2023 科大讯飞A.I开发者大赛: 机器翻译质量评估挑战赛2023](https://challenge.xfyun.cn/topic/info?type=translation-quality-2023)—— **冠军** (🏅️*SOLO*)
   - 【**NLP**】[2023 科大讯飞A.I开发者大赛: 基于自然语言的软件任务执行挑战赛](https://challenge.xfyun.cn/topic/info?type=software-task)—— **冠军** (🏅️*SOLO*)
-  - 【**NLP**】[2023 Kaggle: LLM Science Exam](https://www.kaggle.com/competitions/kaggle-llm-science-exam) —— **Silver Medal** (🥈*SOLO* )
+  - 【**LLM**】[2023 Kaggle: LLM Science Exam](https://www.kaggle.com/competitions/kaggle-llm-science-exam) —— **Silver Medal** (🥈*SOLO* )
   - 【**MMML**】[AI FOR GOOD,CODE ON!2022技术公益创新杯（字节跳动）](https://codeon.bytedance.com/v3/news-detail.html?id=22) —— **一等奖** 🏅️ 
   - 【**NLP**】[2022 Kaggle: U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) —— **[Gold Medal](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332567)** 🏅️
   - 【**NLP**】[2022 Kaggle: NBME - Score Clinical Patient Notes](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes) —— **[Gold Medal](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/discussion/322962)** 🏅️
