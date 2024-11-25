@@ -15,8 +15,8 @@
 #### :trophy: Competition
   - 【**NLP**】[2024 科大讯飞A.I开发者大赛: 低资源文本翻译挑战赛2024](https://challenge.xfyun.cn/topic/info?type=multi-language-2023)—— **冠军** (🏅️*SOLO*)
   - 【**LLM**】[2024 Kaggle: LMSYS - Chatbot Arena Human Preference Predictions](https://www.kaggle.com/competitions/lmsys-chatbot-arena) —— **Silver Medal** (🥈*SOLO* )
-  - 【**LLM**】[2024 Kaggle: NeurIPS 2024 - Predict New Medicines with BELKA](https://www.kaggle.com/competitions/leash-BELKA) —— **Silver Medal** ( ***Team Leader***  🥈)
-  - 【**LLM**】[2024 Kaggle: LEAP - Atmospheric Physics using AI (ClimSim)](https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim) —— **Silver Medal**
+  - 【**ML**】[2024 Kaggle: NeurIPS 2024 - Predict New Medicines with BELKA](https://www.kaggle.com/competitions/leash-BELKA) —— **Silver Medal** ( ***Team Leader***  🥈)
+  - 【**ML**】[2024 Kaggle: LEAP - Atmospheric Physics using AI (ClimSim)](https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim) —— **Silver Medal**
   - 【**NLP**】[2023 科大讯飞A.I开发者大赛: 低资源文本翻译挑战赛2023](https://challenge.xfyun.cn/topic/info?type=multi-language-2023)—— **冠军** (🏅️*SOLO*)
   - 【**NLP**】[2023 科大讯飞A.I开发者大赛: 机器翻译质量评估挑战赛2023](https://challenge.xfyun.cn/topic/info?type=translation-quality-2023)—— **冠军** (🏅️*SOLO*)
   - 【**NLP**】[2023 科大讯飞A.I开发者大赛: 基于自然语言的软件任务执行挑战赛](https://challenge.xfyun.cn/topic/info?type=software-task)—— **冠军** (🏅️*SOLO*)
