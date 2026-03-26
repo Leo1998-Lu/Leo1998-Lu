@@ -1,17 +1,12 @@
 ### :wave: Hi! I'm Zhixiang Lu - Leo Lu
-<p align="center"> 
- <img src="https://profile-counter.glitch.me/Leo1998-Lu/count.svg"/>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leo1998-Lu&theme=nord_bright" alt="Profile Details">
 </p>
 
-
-![image](https://github.com/user-attachments/assets/0fd1acc2-ca28-47e4-ba10-2e5a5316f5ad)
-
+<img width="1221" height="811" alt="image" src="https://github.com/user-attachments/assets/b0fdfabe-f4d2-472b-a35d-7ab700d1f51d" />
 
 
-****🔭 I’m currently working on and learning:****
-  - Data Mining
-  - Natural Language Processing
-  
 #### :trophy: Competition
   - 【**NLP**】[2024 科大讯飞A.I开发者大赛: 低资源文本翻译挑战赛2024](https://challenge.xfyun.cn/topic/info?type=multi-language-2023)—— **冠军** (🏅️*SOLO*)
   - 【**LLM**】[2024 Kaggle: LMSYS - Chatbot Arena Human Preference Predictions](https://www.kaggle.com/competitions/lmsys-chatbot-arena) —— **Silver Medal** (🥈*SOLO* )
