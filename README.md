@@ -8,6 +8,7 @@
 
 
 #### :trophy: Competition
+  - 【**NLP**】[2026 Kaggle: Deep Past Challenge - Translate Akkadian to English](https://www.kaggle.com/competitions/deep-past-initiative-machine-translation) —— **Silver Medal** (🥈*SOLO* )
   - 【**NLP**】[2024 科大讯飞A.I开发者大赛: 低资源文本翻译挑战赛2024](https://challenge.xfyun.cn/topic/info?type=multi-language-2023)—— **冠军** (🏅️*SOLO*)
   - 【**LLM**】[2024 Kaggle: LMSYS - Chatbot Arena Human Preference Predictions](https://www.kaggle.com/competitions/lmsys-chatbot-arena) —— **Silver Medal** (🥈*SOLO* )
   - 【**ML**】[2024 Kaggle: NeurIPS 2024 - Predict New Medicines with BELKA](https://www.kaggle.com/competitions/leash-BELKA) —— **Silver Medal** ( ***Team Leader***  🥈)
